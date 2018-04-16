@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+ul {
+  margin: 0;
+}
+.list ul {
+  list-style: none;
+}
+.list li {
+  border-bottom: 1px solid #eee;
+  padding: 16px 0;
+}
+
+input {
+  border: 1px solid #888;
+  padding: 10px 16px;
+  outline: none;
+}
+input:hover,
+input:focus {
+  outline: none;
+}
